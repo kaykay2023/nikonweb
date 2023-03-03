@@ -23,7 +23,15 @@
   float: left;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px;
   font-family:Arial, Helvetica, sans-serif;
   
+  
+  
+}
+
+.searchBar{
+  margin-left:30% ;
+  margin-bottom: 3em;
+  border-radius: 50px;
 }
